@@ -1,0 +1,15 @@
+/Users/katemrrr/IdeaProjects/ContactsSpringMvc/src/main/java/ru/itis/hw/contacts/dao/ContactDao.java
+/Users/katemrrr/IdeaProjects/ContactsSpringMvc/src/main/java/ru/itis/hw/contacts/dao/utils/SqlQueryExecutor.java
+/Users/katemrrr/IdeaProjects/ContactsSpringMvc/src/main/java/ru/itis/hw/contacts/service/ContactService.java
+/Users/katemrrr/IdeaProjects/ContactsSpringMvc/src/main/java/ru/itis/hw/contacts/WebAppInitializer.java
+/Users/katemrrr/IdeaProjects/ContactsSpringMvc/src/main/java/ru/itis/hw/contacts/controllers/ContactController.java
+/Users/katemrrr/IdeaProjects/ContactsSpringMvc/src/main/java/ru/itis/hw/contacts/dao/utils/ParamsMapper.java
+/Users/katemrrr/IdeaProjects/ContactsSpringMvc/src/main/java/ru/itis/hw/contacts/service/ContactServiceImpl.java
+/Users/katemrrr/IdeaProjects/ContactsSpringMvc/src/main/java/ru/itis/hw/contacts/dao/utils/SqlQueryExecutorImpl.java
+/Users/katemrrr/IdeaProjects/ContactsSpringMvc/src/main/java/ru/itis/hw/contacts/dao/models/dto/ContactDto.java
+/Users/katemrrr/IdeaProjects/ContactsSpringMvc/src/main/java/ru/itis/hw/contacts/dao/utils/ParamsMapperImpl.java
+/Users/katemrrr/IdeaProjects/ContactsSpringMvc/src/main/java/ru/itis/hw/contacts/Main.java
+/Users/katemrrr/IdeaProjects/ContactsSpringMvc/src/main/java/ru/itis/hw/contacts/dao/Constants.java
+/Users/katemrrr/IdeaProjects/ContactsSpringMvc/src/main/java/ru/itis/hw/contacts/dao/models/Contact.java
+/Users/katemrrr/IdeaProjects/ContactsSpringMvc/src/main/java/ru/itis/hw/contacts/dao/ContactDaoImpl.java
+/Users/katemrrr/IdeaProjects/ContactsSpringMvc/src/main/java/ru/itis/hw/contacts/WebAppContext.java

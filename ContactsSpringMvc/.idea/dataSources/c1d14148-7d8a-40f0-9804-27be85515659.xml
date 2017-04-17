@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="PostgreSQL - Contact@localhost">
+  <database-model serializer="dbm" rdbms="POSTGRES" format-version="2.6">
+    <database id="1" name="postgres">
+      <object-id>12669</object-id>
+      <visible>1</visible>
+    </database>
+    <database id="2" name="Sport">
+      <object-id>17740</object-id>
+    </database>
+    <database id="3" name="Shop">
+      <object-id>17833</object-id>
+    </database>
+    <database id="4" name="shop_test">
+      <object-id>18539</object-id>
+    </database>
+    <database id="5" name="shop_dev">
+      <object-id>18709</object-id>
+    </database>
+    <database id="6" name="store_dev">
+      <object-id>27161</object-id>
+    </database>
+    <database id="7" name="store_test">
+      <object-id>27162</object-id>
+    </database>
+    <database id="8" name="stores_dev">
+      <object-id>27163</object-id>
+    </database>
+    <database id="9" name="stores_test">
+      <object-id>27164</object-id>
+    </database>
+    <database id="10" name="page_dev">
+      <object-id>27339</object-id>
+    </database>
+    <database id="11" name="page_test">
+      <object-id>27340</object-id>
+    </database>
+    <database id="12" name="new_page_test">
+      <object-id>27380</object-id>
+    </database>
+    <database id="13" name="new_page_dev">
+      <object-id>27381</object-id>
+    </database>
+    <database id="14" name="Contact">
+      <object-id>27437</object-id>
+      <visible>1</visible>
+    </database>
+    <database id="15" name="hibernate">
+      <object-id>35531</object-id>
+    </database>
+    <schema id="16" parent="1" name="public">
+      <object-id>2200</object-id>
+      <visible>1</visible>
+      <introspection-timestamp>2017-03-26.20:30:09.258</introspection-timestamp>
+    </schema>
+    <schema id="17" parent="1" name="pg_catalog">
+      <object-id>11</object-id>
+    </schema>
+    <schema id="18" parent="1" name="pg_toast">
+      <object-id>99</object-id>
+    </schema>
+    <schema id="19" parent="1" name="pg_temp_1">
+      <object-id>11848</object-id>
+    </schema>
+    <schema id="20" parent="1" name="pg_toast_temp_1">
+      <object-id>11849</object-id>
+    </schema>
+    <schema id="21" parent="1" name="information_schema">
+      <object-id>12381</object-id>
+    </schema>
+    <schema id="22" parent="14" name="public">
+      <object-id>2200</object-id>
+      <visible>1</visible>
+      <introspection-state-number>2169</introspection-state-number>
+      <introspection-timestamp>2017-03-26.23:34:31.172</introspection-timestamp>
+    </schema>
+    <schema id="23" parent="14" name="pg_catalog">
+      <object-id>11</object-id>
+    </schema>
+    <schema id="24" parent="14" name="pg_toast">
+      <object-id>99</object-id>
+    </schema>
+    <schema id="25" parent="14" name="pg_temp_1">
+      <object-id>11848</object-id>
+    </schema>
+    <schema id="26" parent="14" name="pg_toast_temp_1">
+      <object-id>11849</object-id>
+    </schema>
+    <schema id="27" parent="14" name="information_schema">
+      <object-id>12381</object-id>
+    </schema>
+    <sequence id="28" parent="22" name="Contacts_id_seq">
+      <object-id>35617</object-id>
+      <state-number>2164</state-number>
+    </sequence>
+    <table id="29" parent="22" name="Contacts">
+      <object-id>35619</object-id>
+      <state-number>2164</state-number>
+    </table>
+    <column id="30" parent="29" name="id">
+      <state-number>2169</state-number>
+      <mandatory>1</mandatory>
+      <data-type>integer|0</data-type>
+      <default-expression>0</default-expression>
+    </column>
+    <column id="31" parent="29" name="name">
+      <state-number>2164</state-number>
+      <data-type>varchar|0</data-type>
+    </column>
+    <column id="32" parent="29" name="address">
+      <state-number>2164</state-number>
+      <data-type>varchar|0</data-type>
+    </column>
+    <column id="33" parent="29" name="number">
+      <state-number>2164</state-number>
+      <data-type>varchar|0</data-type>
+    </column>
+    <column id="34" parent="29" name="email">
+      <state-number>2164</state-number>
+      <data-type>varchar|0</data-type>
+    </column>
+  </database-model>
+</dataSource>
